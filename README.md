@@ -119,8 +119,8 @@ Pull requests are welcome! For major changes, open an issue first to discuss.
 ## 📧 Contact
 
 **Author:** Sarthak Pande
-**Email:** *your email here*
-**LinkedIn:** *your profile link here*
+**Email:** *sarthakpande1008@gmail.com*
+
 
 ---
 
